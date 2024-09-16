@@ -12,7 +12,7 @@ bool isWin(char game[3][3]) {
         }
     }
     
-    // Check columns
+    // Check columns asd
     for (int j = 0; j < 3; j++) {
         // add a comment
         if ((game[0][j] == game[1][j] && game[1][j] == game[2][j]) && 
