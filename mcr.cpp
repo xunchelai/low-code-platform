@@ -56,7 +56,7 @@ int main() {
         // Check if the cell is already marked
         if (game[i][j] != ' ') {
             cout << "Cell already marked, try again." << endl;
-            n--; // Does not count this round
+            n--; // Does not count this round test
             continue;
         }
 
