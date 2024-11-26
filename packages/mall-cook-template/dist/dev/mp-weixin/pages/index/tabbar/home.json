@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "global-tab-page": "/components/global/global-tab-page",
+    "render-widget": "/components/render-widget",
+    "full-loading": "/components/full-loading",
+    "custom-top-bar": "/components/custom-top-bar"
+  }
+}

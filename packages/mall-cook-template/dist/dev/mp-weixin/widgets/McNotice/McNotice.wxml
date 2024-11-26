@@ -1,0 +1,1 @@
+<view class="notice _div data-v-5ab98c71"><uni-notice-bar vue-id="070efa96-1" scrollable="{{true}}" single="{{true}}" text="{{noticeContent.text}}" color="{{noticeStyles.fontColor}}" backgroundColor="{{noticeStyles.cmpBackground}}" class="data-v-5ab98c71" bind:__l="__l"></uni-notice-bar></view>

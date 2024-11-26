@@ -1,0 +1,1 @@
+<view style="{{$root.s0}}" class="_div"><goods-tabs generic:scoped-slots-default="McGoods-goods-tabs-default" data-vue-generic="scoped" vue-id="35738a1a-1" config="{{config}}" bind:__l="__l" vue-slots="{{['default']}}"></goods-tabs></view>

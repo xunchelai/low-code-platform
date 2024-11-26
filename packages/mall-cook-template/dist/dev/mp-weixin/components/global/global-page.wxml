@@ -1,0 +1,1 @@
+<view class="wrap _div data-v-4e940808"><full-loading vue-id="f8250c04-1" top="{{top}}" show="{{loading}}" bgColor="{{bgColor}}" class="data-v-4e940808" bind:__l="__l"></full-loading><slot></slot></view>

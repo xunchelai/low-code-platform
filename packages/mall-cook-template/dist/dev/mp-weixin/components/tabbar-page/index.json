@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "custom-tab-bar": "/components/custom-tab-bar",
+    "category-page": "/components/tabbar-page/category-page",
+    "custom-page": "/components/tabbar-page/custom-page",
+    "my-page": "/components/tabbar-page/my-page",
+    "car-page": "/components/tabbar-page/car-page"
+  }
+}

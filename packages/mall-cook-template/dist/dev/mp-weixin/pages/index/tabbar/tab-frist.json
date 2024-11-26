@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "tabbar-page": "/components/tabbar-page/index"
+  }
+}

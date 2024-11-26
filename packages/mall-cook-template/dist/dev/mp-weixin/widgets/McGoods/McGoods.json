@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "McGoods-goods-tabs-default": "/widgets/McGoods/McGoods-goods-tabs-default",
+    "goods-tabs": "/widgets/McGoods/GoodsTabs",
+    "goods-list": "/widgets/McGoods/GoodsList"
+  }
+}

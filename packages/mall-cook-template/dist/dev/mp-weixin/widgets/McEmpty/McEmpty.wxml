@@ -1,0 +1,1 @@
+<view style="{{$root.s0}}" class="_div"><view class="flex-center w-100 _div" style="{{'height:'+(this.styles.height+'px')+';'}}"><block wx:if="{{styles.model=='line'}}"><view class="w-100 _hr" style="{{$root.s1}}"></view></block></view></view>

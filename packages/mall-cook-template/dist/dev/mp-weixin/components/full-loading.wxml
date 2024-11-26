@@ -1,0 +1,1 @@
+<view hidden="{{!(show)}}" class="full" style="{{'background:'+(bgColor)+';'}}"><view class="loading" style="{{'top:'+(top+'%')+';'}}"><view class="loader loader1 _div"><view class="_div"><view class="_div"><view class="_div"><view class="_div"><view class="_div"><view class="_div"></view></view></view></view></view></view></view></view></view>

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "custom-tab-bar": "/components/custom-tab-bar",
+    "review-page": "/components/review-page"
+  }
+}

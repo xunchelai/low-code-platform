@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "global-tab-page": "/components/global/global-tab-page",
+    "render-widget": "/components/render-widget"
+  }
+}

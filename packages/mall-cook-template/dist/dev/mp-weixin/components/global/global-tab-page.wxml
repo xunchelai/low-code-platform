@@ -1,0 +1,1 @@
+<scroll-view class="page"><view class="page-body"><slot></slot></view><custom-tab-bar vue-id="d39f2374-1" bind:__l="__l"></custom-tab-bar></scroll-view>

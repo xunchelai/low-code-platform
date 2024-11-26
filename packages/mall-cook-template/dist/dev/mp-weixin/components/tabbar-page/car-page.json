@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "global-tab-page": "/components/global/global-tab-page",
+    "car-list": "/components/car-list",
+    "goods-list": "/components/goods-list",
+    "custom-top-bar": "/components/custom-top-bar",
+    "page-juejin": "/components/page-juejin"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "列表",
+  "navigationBarBackgroundColor": "#f7f7f7",
+  "usingComponents": {
+    "global-page": "/components/global/global-page",
+    "goods-list": "/components/goods-list"
+  }
+}

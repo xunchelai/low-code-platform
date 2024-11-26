@@ -1,0 +1,1 @@
+<view class="search _div data-v-69c83671" style="{{$root.s0}}"><view data-event-opts="{{[['tap',[['$jump',[['o',['name','search']]]]]]]}}" class="search-body _div data-v-69c83671" style="{{$root.s1}}" bindtap="__e"><label class="_span data-v-69c83671">{{value.text}}</label></view></view>

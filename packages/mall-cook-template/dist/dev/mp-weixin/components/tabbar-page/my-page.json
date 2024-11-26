@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "custom-top-bar": "/components/custom-top-bar",
+    "goods-list": "/components/goods-list",
+    "page-blili": "/components/page-blili"
+  }
+}

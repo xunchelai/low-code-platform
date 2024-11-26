@@ -1,0 +1,16 @@
+{
+  "component": true,
+  "usingComponents": {
+    "mc-title": "/widgets/McTitle/McTitle",
+    "mc-img": "/widgets/McImg/McImg",
+    "mc-search": "/widgets/McSearch/McSearch",
+    "mc-tab": "/widgets/McTab/McTab",
+    "mc-cap-cube": "/widgets/McCapCube/McCapCube",
+    "mc-countdown": "/widgets/McCountdown/McCountdown",
+    "mc-empty": "/widgets/McEmpty/McEmpty",
+    "mc-goods": "/widgets/McGoods/McGoods",
+    "mc-swiper": "/widgets/McSwiper/McSwiper",
+    "mc-notice": "/widgets/McNotice/McNotice",
+    "waiting-cmp": "/components/waiting-cmp/index"
+  }
+}

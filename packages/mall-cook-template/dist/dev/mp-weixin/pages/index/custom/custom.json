@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "render-widget": "/components/render-widget"
+  }
+}

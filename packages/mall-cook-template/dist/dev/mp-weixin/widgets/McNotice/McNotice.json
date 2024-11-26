@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uni-notice-bar": "/widgets/McNotice/uni-notice-bar"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "global-page": "/components/global/global-page",
+    "u-swiper": "/node-modules/uview-ui/components/u-swiper/u-swiper",
+    "u-toast": "/node-modules/uview-ui/components/u-toast/u-toast",
+    "submit-bar": "/components/submit-bar",
+    "custom-capsule": "/components/custom-capsule"
+  }
+}

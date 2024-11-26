@@ -1,0 +1,1 @@
+<view class="custom data-v-4946bd69"><block wx:if="{{page}}"><block wx:for="{{page.componentList}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><render-widget vue-id="{{'40dd1e86-1-'+__i0__}}" item="{{item}}" class="data-v-4946bd69" bind:__l="__l"></render-widget></block></block></view>

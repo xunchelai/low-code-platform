@@ -1,0 +1,1 @@
+<view style="{{$root.s0}}" class="_div data-v-3531b4cd"><image class="img data-v-3531b4cd" style="{{$root.s1}}" mode="widthFix" src="{{imageValue.imagePath||defaultImage}}" data-event-opts="{{[['tap',[['$jump',['$0'],['imageValue.jumpPath']]]]]}}" bindtap="__e"></image></view>

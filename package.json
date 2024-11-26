@@ -1,0 +1,20 @@
+{
+  "name": "mall",
+  "version": "1.0.0",
+  "scripts": {
+    "bootstrap": "yarn && node scripts/install.js",
+    "dev": "node scripts/dev.js",
+    "build": "node scripts/build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cross-env": "^7.0.3",
+    "execa": "4.0.2",
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0",
+    "ora": "^4.1.1",
+    "path": "^0.12.7"
+  }
+}
